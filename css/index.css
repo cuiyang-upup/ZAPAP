@@ -1,0 +1,242 @@
+.index-banner{
+	position:relative;
+	width: 1500px;
+}
+.bannerImg{
+	width: 1500px;
+	height: 570px;
+	overflow: hidden;
+}
+.index-banner-bg{
+	position:relative;
+	left: 0px;
+	
+	width: 4500px;
+	height: 570px;
+	
+	overflow: hidden;
+
+}
+.index-banner-bg div{
+	float: left;
+}
+.index-banner-text{
+	position: absolute;
+	top: 200px;
+	left: 50%;
+	margin-left: -388px;
+}
+.index-banner-logo{
+	
+	width: 776px;
+	height: 117px;
+	background: url("../image/banner-logo.png");
+}
+.index-banner-info{
+	margin-top: 12px;
+	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.index-banner-info-l{
+	display: inline-block;
+	width: 40px;
+	border-top: 1px solid #FFFFFF;
+	vertical-align: middle;
+	margin-right: 26px;
+}
+.index-banner-info-r{
+	display: inline-block;
+	width: 40px;
+	border-top: 1px solid #FFFFFF;
+	vertical-align: middle;
+	margin-left: 26px;
+}
+.index-banner-bottom{
+	background: url(..//image/banner-bottom.jpg) no-repeat;
+	width: 1500px;
+	height: 76px;
+	text-align: center;
+	font-size: 25px;
+	color: #FFFFFF;
+	padding-top: 15px;
+}
+.repact{
+	height: 100px;
+}
+.index-list-item{
+	float: left;
+	width: 550px;
+	height: 96px;
+	background: transparent;
+	padding-right: 60px;
+} 
+.index-list-item h4 {
+	
+	margin: 0;
+	padding: 0;
+}
+.item2{
+	float: left;
+	width:230px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.comment{
+	width:230px;
+	margin: 5px 0;
+	font-size: 14px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.line{
+	float: left;
+	width:192px; 
+	border-top: 2px solid #FF0000;
+	margin-top: 15px;
+} 
+.price{
+	float: right;
+}
+
+.index-more{
+	margin: 0 auto;
+	width: 128px;
+	height: 34px;
+	line-height: 34px;
+	border:2px solid #929292;
+	font-size: 15px;
+	padding-left: 15px;
+}
+.index-but{
+	margin-top: 60px;
+	margin-bottom: 200px;
+}
+.icom{
+	margin: 0 5px;
+    height: 10px;
+	border-left: 2px solid #919191;
+}
+.icom-1{
+	float: right;
+	display: block;
+	margin-top: 13px;
+	margin-right: 15px;
+	width: 11px;
+	height: 7px;
+	background-image: url("../image/icom.png");
+}
+.food{
+	/*margin: 60px 0;*/
+}
+#food-2 {
+	margin-top: 200px;
+	margin-bottom: 130px;
+}
+.food h4{
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+.food-line{
+	float: left;
+	width: 200px;
+	border-top: 2px solid #555555;
+	margin-left: 50px;
+	margin-top: 15px;
+
+}
+.btn-group{
+	margin-top:10px;
+	float: right;
+	font-size: 0px;
+}
+.btn{
+	display: inline-block;
+	width: 9px;
+	height: 9px;
+	margin-left: 11px;
+	background: #CCCCCC;
+	border-radius: 50%;
+}
+
+.food-list{
+	float: left;
+	margin-bottom: 100px;
+	width:231px;
+	margin: 0 21px;
+}
+.foot-img{
+	width: 231px;
+	height: 202px;
+	margin-top: 78px;
+}
+.food-name{
+	float:left;
+	margin:15px 0;
+}
+.food-price{
+	float:right;
+	margin:15px 0;
+}
+.star-group{
+	float:left;
+	width:200px;
+	height: 30px;
+}
+.star{
+	float: left;
+	background: url("../image/star.png");
+	width: 12px;
+	height: 13px;
+}
+h4{
+	margin-bottom: 130px;
+	margin-top: 200px;
+}
+.food-img{
+	height: 381px;
+	margin-bottom: 100px;
+}
+.food-img img{
+	float: left;
+}
+.food-img-row{
+	float: left;
+	width: 289px;
+	height: 381px;
+}
+.public-container-2{
+	position: relative;
+	width: 1105px;
+
+	margin: 0 auto;
+	background: transparent;
+}
+
+.bg-button{
+	
+
+	height: 25px;
+	width: 105px;
+	margin:150px auto 50px auto;
+}
+.button{
+	display: block;
+	float: left;
+	width: 25px;
+	height: 25px;
+	text-align: center;
+	border: 2px solid #7D7D7D;
+	background: transparent;
+	margin:0 5px;
+	cursor:pointer;
+}
+.bu{
+	background: #9E9E9E;
+}
+#list{
+	height: 484px;
+	overflow: hidden;
+}
